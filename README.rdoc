@@ -1,4 +1,4 @@
-== README
+== Rails4 Base App
 
 This app is built to be used as a base app for other rails apps.
 It includes:
